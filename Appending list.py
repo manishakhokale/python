@@ -1,3 +1,4 @@
+# this is appending program 
 current_choice = "-"
 computer_parts = []
 
