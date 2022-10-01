@@ -1,0 +1,11 @@
+print("Application to demonstrate industrial programming")
+
+def main():
+    no1 = 11
+    no2 = 10
+    ans = no1+no2
+
+    print("Addition is:", ans)
+
+if __name__ == "__main__":
+    main()
