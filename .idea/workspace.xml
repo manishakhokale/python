@@ -2,38 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f0a0f0e5-6cf8-449e-8b67-5d770e257b68" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment1_9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/command1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factors6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/list1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listinput.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listtraversal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/looppractice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/looppractice2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/looppractice3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/looppractice4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pattern_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/range1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/while.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment2_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FMR1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambda.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdaeven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lambdaeven1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VariableNumbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/default.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionarydemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dictionaryiterate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fil_map_red1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fil_map_red2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fil_map_red3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listiterate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loopractice1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/loopractice3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/setiterate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tupledemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tupleiterate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numbers1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2_1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +65,10 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assignment1_10.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment1_7.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment1_9.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment2_1.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment2_7.py" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -75,10 +92,11 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\niles\OneDrive\Desktop\python" />
+      <recent name="D:\Manisha\classes documents\program\Marvellous Python Applications" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.factors6">
-    <configuration name="command1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.fil_map_red2">
+    <configuration name="FMR1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/command1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FMR1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factors3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fil_map_red1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factors3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fil_map_red1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factors4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fil_map_red1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factors4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\niles\OneDrive\Desktop\python\fil_map_red1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factors5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fil_map_red2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +171,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factors5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fil_map_red2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="factors6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fil_map_red3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +192,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/factors6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fil_map_red3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.factors6" />
-        <item itemvalue="Python.command1" />
-        <item itemvalue="Python.factors5" />
-        <item itemvalue="Python.factors4" />
-        <item itemvalue="Python.factors3" />
+        <item itemvalue="Python.fil_map_red2" />
+        <item itemvalue="Python.fil_map_red1 (1)" />
+        <item itemvalue="Python.fil_map_red3" />
+        <item itemvalue="Python.fil_map_red1" />
+        <item itemvalue="Python.FMR1" />
       </list>
     </recent_temporary>
   </component>
